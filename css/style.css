@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background-color: #E1F2FB;
+	font-family: :'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: 'Sriracha', sans-serif;
+	font-weight: bold;
+}
+
+h2{
+	font-family:'Lora', serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
